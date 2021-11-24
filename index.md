@@ -2,4 +2,5 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hope you will enjoy your visit here!
+This is the first website that I create using github so I am very excited.
